@@ -1,0 +1,62 @@
+
+  
+
+  #h1id {
+    background-color: rgba(242, 245, 255, 0.849);
+    width: 194px;
+    padding: 50px 50px;
+    text-align: center;
+    border: solid 1px;
+    margin-top: 95px;
+    font-size: 80px;
+    margin-left: 534px;
+    margin-bottom: 0px;
+}
+
+#incid
+{
+    background-color: rgb(14, 172, 14);
+    height: 100px;
+    width: 102px;
+    font-size: 30px;
+  }
+
+#incid, #decid, #resetid
+{
+    margin-left: -5px;
+}
+
+#decid
+{
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 102px;
+    font-size: 30px;
+    
+}
+ 
+button {
+  font-family: 'Teko';     
+  padding: 10px 25px;
+  color: #fff;
+  background: #2980B9;
+  font-size: .9em;
+  line-height: 1;
+  border: 1px solid; 
+  border-radius: 3px;
+  text-align: center;
+}
+
+#resetid
+{
+    background-color: rgb(245, 230, 23);
+    height: 100px;
+    width: 102px;
+    font-size: 30px;
+}
+  
+
+
+
+ 
+  
